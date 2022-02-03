@@ -1,0 +1,14 @@
+header {
+  background-coloured: blue;
+}
+
+body {
+  font-size: 50px;
+}
+
+body div {
+  font-size: 40px;
+  margin: 0px 30px 0px 30px;
+  padding: 0px 30px 0px 30px;
+  color: red;
+}
